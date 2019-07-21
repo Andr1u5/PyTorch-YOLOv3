@@ -1,4 +1,4 @@
-# PyTorch-YOLOv3
+# PyTorch-YOLOv3 Modified For Text Localization on DeTEXT Dataset
 A minimal PyTorch implementation of YOLOv3, with support for training, inference and evaluation.
 
 ## Installation
